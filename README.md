@@ -1,6 +1,6 @@
 # Udemy Courses Summary
 
-## Exploring AI and Vision: A Learning Journey
+## Exploring AI and Computer Vision: A Learning Journey
 
 ### Courses:
 

@@ -1,4 +1,4 @@
-# Exploring AI and Computer Vision: A Learning Journey
+# Artificial Intelligence and Computer Vision Courses and Projects
 
 ### Courses:
 
@@ -23,3 +23,6 @@
 #### 3. Python for Computer Vision with OpenCV and Deep Learning
 - Practical course on computer vision using Python.
 - Covers OpenCV library and deep learning techniques for image analysis.
+
+## License Note:
+This repository is intended for educational purposes only. All code and content in this repository are provided for personal learning and non-commercial use. You may *view* and *study* the code.

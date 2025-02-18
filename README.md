@@ -18,8 +18,8 @@
 
 #### 2. Deep Learning and Computer Vision A-Z
 - This code implements real-time object detection using a pre-trained SSD model in PyTorch. It processes a video, detects objects in each frame, and draws bounding boxes with labels around the detected objects. The model is loaded from pre-trained weights, and the results are saved to a new video. I’ve used OpenCV for image processing and imageio to handle video input and output.
-- Check out this demo of my object detection system in action, processing a video of epic horses!
-- ![Object Detection with SSD](./assets/output.gif) 
+  - Check out this demo of my object detection system in action, processing a video of epic horses!
+   - ![Object Detection with SSD](./assets/output.gif) 
 
 #### 3. Python for Computer Vision with OpenCV and Deep Learning
 - Practical course on computer vision using Python.

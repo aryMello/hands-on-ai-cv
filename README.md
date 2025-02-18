@@ -17,8 +17,9 @@
    - ![Kung Fu Master Demo](./assets/kungfu.gif) 
 
 #### 2. Deep Learning and Computer Vision A-Z
-- In-depth exploration of deep learning and computer vision techniques.
-- Includes practical applications for real-world problem-solving.
+- This code implements real-time object detection using a pre-trained SSD model in PyTorch. It processes a video, detects objects in each frame, and draws bounding boxes with labels around the detected objects. The model is loaded from pre-trained weights, and the results are saved to a new video. I’ve used OpenCV for image processing and imageio to handle video input and output.
+- Check out this demo of my object detection system in action, processing a video of epic horses!
+- ![Kung Fu Master Demo](./assets/kungfu.gif) 
 
 #### 3. Python for Computer Vision with OpenCV and Deep Learning
 - Practical course on computer vision using Python.

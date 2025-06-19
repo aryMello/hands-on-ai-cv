@@ -1,82 +1,29 @@
-# 🧠 Artificial Intelligence and Computer Vision Courses and Projects
+# Artificial Intelligence and Computer Vision Courses and Projects
 
-Welcome to my repository showcasing a collection of projects, exercises, and experiments developed through comprehensive training in **Artificial Intelligence (AI)** and **Computer Vision (CV)**. These projects span reinforcement learning, object detection, generative models, and deep learning, using tools like PyTorch, TensorFlow, Keras, OpenCV, and more.
+### Courses:
 
----
+#### 1. Artificial Intelligence A-Z
+- Lunar Lander (DQN):
+   - This code implements a Deep Q-Learning (DQN) algorithm to train an agent to solve the LunarLander-v3 environment from the Gymnasium library. The goal of the agent is to learn to control the lander and land it safely on the surface. It uses a neural network to estimate the Q-values for state-action pairs, which are updated using Q-learning, a reinforcement learning technique.
+   - Check out this cool demo of my Lunar Lander AI!
+   - ![Lunar Lander Demo](./assets/lunarLander.gif) 
+- Pac-Man (DCQN):
+  - This code implements a Deep Convolutional Q-Learning (DCQN) agent for the game Ms. Pac-Man, using reinforcement learning (RL) techniques. The agent is trained to play the game by interacting with the environment and learning from the outcomes of its actions.
+  - Check out this cool demo of my agent playing Ms. Pac-Man!
+   - ![Ms. Pac-Man Demo](./assets/pacman.gif) 
+- Kung-Fu (A3C):
+  - This code implements a Asynchronous Advantage Actor-Critic (A3C) reinforcement learning algorithm to train an agent to play the game Kung Fu Master. A3C is an actor-critic method that uses multiple parallel environments to efficiently train the agent. The code uses Deep Learning with Convolutional Neural Networks (CNN) to process the visual input from the game and learn the optimal policy.
+  - Check out this cool demo of my agent playing Kung Fu Master!
+   - ![Kung Fu Master Demo](./assets/kungfu.gif) 
 
-## 📚 Courses & Projects
+#### 2. Deep Learning and Computer Vision A-Z
+- This code implements real-time object detection using a pre-trained SSD model in PyTorch. It processes a video, detects objects in each frame, and draws bounding boxes with labels around the detected objects. The model is loaded from pre-trained weights, and the results are saved to a new video. I’ve used OpenCV for image processing and imageio to handle video input and output.
+  - Check out this demo of my object detection system in action, processing a video of epic horses!
+   - ![Object Detection with SSD](./assets/output.gif) 
 
-### 1. **Artificial Intelligence A-Z**
+#### 3. Python for Computer Vision with OpenCV and Deep Learning
+- Practical course on computer vision using Python.
+- Covers OpenCV library and deep learning techniques for image analysis.
 
-#### 🚀 Lunar Lander (DQN)
-- Implements **Deep Q-Learning (DQN)** in the `LunarLander-v3` environment from Gymnasium.
-- Uses a neural network to estimate Q-values for state-action pairs and learn an optimal landing strategy.
-- 🎥 Demo:  
-  ![Lunar Lander Demo](./assets/lunarLander.gif)
-
-#### 👾 Ms. Pac-Man (DCQN)
-- Trains a **Deep Convolutional Q-Network (DCQN)** agent to play Ms. Pac-Man using visual input.
-- Applies convolutional layers to process game frames and reinforcement learning for action selection.
-- 🎥 Demo:  
-  ![Ms. Pac-Man Demo](./assets/pacman.gif)
-
-#### 🥋 Kung-Fu Master (A3C)
-- Implements **Asynchronous Advantage Actor-Critic (A3C)** to train an agent in the Kung-Fu Master environment.
-- Utilizes multiple parallel environments and CNNs for efficient learning.
-- 🎥 Demo:  
-  ![Kung Fu Master Demo](./assets/kungfu.gif)
-
----
-
-### 2. **Deep Learning and Computer Vision A-Z**
-
-#### 📹 Real-Time Object Detection with SSD (PyTorch + OpenCV)
-- Uses a pre-trained **SSD (Single Shot Multibox Detector)** model for real-time object detection on video.
-- Annotates frames with bounding boxes and class labels using **OpenCV** and **imageio**.
-- 🎥 Demo (Horses video object detection):  
-  ![Object Detection with SSD](./assets/output.gif)
-
----
-
-### 3. **Python for Computer Vision with OpenCV and Deep Learning**
-
-A practical course designed to master the foundations of image processing and computer vision using Python and OpenCV.
-
-#### ✅ What I Learned:
-- Understand basics of **NumPy**.
-- Manipulate and open images with **NumPy**.
-- Use **OpenCV** to work with image files.
-- Draw shapes and text on images and videos using **OpenCV**.
-- Perform image manipulation: **smoothing**, **blurring**, **thresholding**, and **morphological operations**.
-- Create and analyze **color histograms**.
-- Open and stream video with **Python** and **OpenCV**.
-- Detect objects using **corner**, **edge**, and **grid detection**.
-- Create **face detection** software.
-- Segment images using the **Watershed Algorithm**.
-- Track objects in video.
-- Build image classifiers using **Python** and **Deep Learning**.
-- Work with **TensorFlow**, **Keras**, and train models on custom images.
-
----
-
-### 4. **Deep Learning: Advanced Computer Vision (GANs, SSD, +More!)**
-
-This course dives deep into cutting-edge CV topics and architectures used in modern AI applications.
-
-#### ✅ What I Learned:
-- Understand and apply **transfer learning**.
-- Use advanced CNNs such as **VGG**, **ResNet**, and **Inception**.
-- Implement **object detection** with **SSD**.
-- Apply **neural style transfer** techniques.
-- Explore advanced CV topics including **Class Activation Maps**.
-- Learn and build **GANs (Generative Adversarial Networks)**.
-- Complete an **Object Localization Implementation Project**.
-- Understand key concepts behind **ChatGPT**, **GPT-4**, **DALL·E**, **Midjourney**, and **Stable Diffusion**.
-
----
-
-## ⚖️ License
-
-This repository is intended for **educational purposes only**.  
-All code and content are provided for **personal learning** and **non-commercial use**.  
-You are welcome to **view**, **study**, and **experiment** with the material.
+## License Note:
+This repository is intended for educational purposes only. All code and content in this repository are provided for personal learning and non-commercial use. You may *view* and *study* the code.

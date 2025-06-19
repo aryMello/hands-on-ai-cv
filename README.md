@@ -77,6 +77,4 @@ This course dives deep into cutting-edge CV topics and architectures used in mod
 
 ## ⚖️ License
 
-This repository is intended for **educational purposes only**.  
-All code and content are provided for **personal learning** and **non-commercial use**.  
-You are welcome to **view**, **study**, and **experiment** with the material.
+This repository is intended for **educational purposes only**. All code and content are provided for **personal learning** and **non-commercial use**. You are welcome to **view**, **study**, and **experiment** with the material.

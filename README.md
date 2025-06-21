@@ -61,6 +61,7 @@ A practical course designed to master the foundations of image processing and co
   <img src="./assets/dog_redsquare.png" alt="Face detection" width="200"/>
   <img src="./assets/dog_bluergb.png" alt="Image Manipulation" width="200"/>
   <img src="./assets/car_plate.png" alt="Real Time Detection" width="200"/>
+  <img src="./assets/finger_counter.png" alt="Capstone Project" width="200"/>
 </p>
 
 ---

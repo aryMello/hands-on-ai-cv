@@ -56,6 +56,11 @@ A practical course designed to master the foundations of image processing and co
 - Track objects in video.
 - Build image classifiers using **Python** and **Deep Learning**.
 - Work with **TensorFlow**, **Keras**, and train models on custom images.
+- 📷 Output Demo:
+<p align="center">
+  <img src="./assets/dog_redsquare.png" alt="Face detection" width="200"/>
+  <img src="./assets/dog_bluergb.png" alt="Image Manipulation" width="200"/>
+</p>
 
 ---
 
